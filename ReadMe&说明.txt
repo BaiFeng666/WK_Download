@@ -1,13 +1,11 @@
-
-
-先完全进游戏  在主界面就可以了
-
-然后打开修改器  再回到游戏界面 按[Insert]显示菜单
-
+将BF_WuKong.dll与BFTrainer_Wukong.exe放在同一文件夹内
+然后完全进游戏    运行BFTrainer_Wukong.exe
+按[Insert]显示菜单
 
 
 
 
-First fully enter the game on the main screen
+Place BF_WuKong.dll in the same folder as the BFTrainer_Wukong.exe
+Then fully enter the game and run BFTrainer_Wukong.exe
+press [Insert] to display the menu
 
-Then open the modifier and go back to the game interface and press [Insert] to display the menu
